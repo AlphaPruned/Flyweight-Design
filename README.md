@@ -1,6 +1,6 @@
 # Flyweight Design Pattern Project
 
-![Class Diagram](FlyweightDiagram.jpg)
+![Class Diagram](FlyweightClassDiagram.png)
 
 ## Overview
 
