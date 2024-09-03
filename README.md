@@ -61,9 +61,3 @@ The Flyweight pattern can be applied in various scenarios, including:
 ## Environment
 
 The project builds and runs with Visual Studio Community 2022. Ensure that the required workloads and dependencies are installed to successfully compile and execute the project.
-
-## Additional Resources
-
-- [Flyweight Design Pattern - Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
-- [Design Patterns: Elements of Reusable Object-Oriented Software - Gamma, Helm, Johnson, Vlissides]
-
