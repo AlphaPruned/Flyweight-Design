@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FlyweightFactory/1.0.0": {
+        "dependencies": {
+          "Flyweights": "1.0.0"
+        },
+        "runtime": {
+          "FlyweightFactory.dll": {}
+        }
+      },
+      "Flyweights/1.0.0": {
+        "runtime": {
+          "Flyweights.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlyweightFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyweights/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

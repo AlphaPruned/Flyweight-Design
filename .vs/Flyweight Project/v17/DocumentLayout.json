@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B63C21C-BCFA-4900-A0BB-46434D2C1FA8}|FlyweightFactory\\FlyweightFactory.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweightfactory\\characterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B63C21C-BCFA-4900-A0BB-46434D2C1FA8}|FlyweightFactory\\FlyweightFactory.csproj|solutionrelative:flyweightfactory\\characterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\characterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\characterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6083F12-9EED-4D8A-A27C-1EA9B36B378B}|Execution\\Execution.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\execution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6083F12-9EED-4D8A-A27C-1EA9B36B378B}|Execution\\Execution.csproj|solutionrelative:execution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\gruntenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\gruntenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD015DFE-DEB7-4731-A2A0-FA792F4AA1F6}|GameTest\\GameTest.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\gametest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD015DFE-DEB7-4731-A2A0-FA792F4AA1F6}|GameTest\\GameTest.csproj|solutionrelative:gametest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\eliteenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\eliteenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\bossenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|c:\\users\\arnav\\desktop\\software engineering\\flyweight project\\flyweight project\\flyweights\\herocharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856AB954-8910-49BE-A341-3DBAF3B7F81C}|Flyweights\\Flyweights.csproj|solutionrelative:flyweights\\herocharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BossEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\BossEnemy.cs",
+              "RelativeDocumentMoniker": "Flyweights\\BossEnemy.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\BossEnemy.cs",
+              "RelativeToolTip": "Flyweights\\BossEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:28:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EliteEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\EliteEnemy.cs",
+              "RelativeDocumentMoniker": "Flyweights\\EliteEnemy.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\EliteEnemy.cs",
+              "RelativeToolTip": "Flyweights\\EliteEnemy.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:25:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GruntEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\GruntEnemy.cs",
+              "RelativeDocumentMoniker": "Flyweights\\GruntEnemy.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\GruntEnemy.cs",
+              "RelativeToolTip": "Flyweights\\GruntEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:20:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterState.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\CharacterState.cs",
+              "RelativeDocumentMoniker": "Flyweights\\CharacterState.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\CharacterState.cs",
+              "RelativeToolTip": "Flyweights\\CharacterState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:11:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\FlyweightFactory\\CharacterFactory.cs",
+              "RelativeDocumentMoniker": "FlyweightFactory\\CharacterFactory.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\FlyweightFactory\\CharacterFactory.cs",
+              "RelativeToolTip": "FlyweightFactory\\CharacterFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:50:33.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\ICharacter.cs",
+              "RelativeDocumentMoniker": "Flyweights\\ICharacter.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\ICharacter.cs",
+              "RelativeToolTip": "Flyweights\\ICharacter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvywAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:20:17.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\Character.cs",
+              "RelativeDocumentMoniker": "Flyweights\\Character.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\Character.cs",
+              "RelativeToolTip": "Flyweights\\Character.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv1kAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:28:40.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\GameTest\\UnitTest.cs",
+              "RelativeDocumentMoniker": "GameTest\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\GameTest\\UnitTest.cs",
+              "RelativeToolTip": "GameTest\\UnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:07:27.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Execution\\Program.cs",
+              "RelativeDocumentMoniker": "Execution\\Program.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Execution\\Program.cs",
+              "RelativeToolTip": "Execution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:46:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeroCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\HeroCharacter.cs",
+              "RelativeDocumentMoniker": "Flyweights\\HeroCharacter.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Flyweight Project\\Flyweight Project\\Flyweights\\HeroCharacter.cs",
+              "RelativeToolTip": "Flyweights\\HeroCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:30:27.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
